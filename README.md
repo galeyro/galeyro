@@ -15,7 +15,6 @@
 
 <!-- Initial Welcome Animation -->
 <div align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" height="300" alt="Code scroll">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" height="300" alt="Ultra Fast typing Cat"> 
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" alt="Busy Work">
 </div>
