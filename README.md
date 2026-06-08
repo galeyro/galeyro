@@ -30,39 +30,8 @@
 ## ├──📂 About Me
 
 <p align="center">
-  <i>Software Engineer with a Physics background, focused on Data Engineering, AI Systems, and Cloud-Native Architectures. Passionate about building scalable data platforms, ML solutions, and developer productivity tools.</i>
+  <i>Software Engineer with a Physics background. Passionate about building scalable data platforms, ML solutions, and developer productivity tools.</i>
 </p>
-
-<!-- Two-Column Layout for Data & ML (Invisible Borders) -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="300" alt="3d Cool Statistics">
-    </td>
-    <td width="60%" style="border: none;">
-      <h3>📊 Data Analysis & Exploration</h3>
-      <p>I am passionate about the world of data. I love diving deep into data analysis, data exploration, and structuring complex information. I leverage tools like PySpark, Pandas, and Azure Data Factory to build robust ETL/ELT pipelines and Data Lakehouse architectures.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300" alt="Molecules dance">
-    </td>
-    <td width="60%" style="border: none;">
-      <h3>🧠 Data Science & Machine Learning</h3>
-      <p>My analytical foundation naturally extends to Data Science and the creation of Machine Learning models. I enjoy training models using PyTorch, TensorFlow, and Scikit-learn, and exploring modern AI integrations like LangChain to bring intelligent automation to life.</p>
-    </td>
-    <tr>
-  <td width="40%" align="center" style="border: none;">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="300" alt="Full Stack Development">
-  </td>
-  <td width="60%" style="border: none;">
-    <h3>💻 Full-Stack Development</h3>
-    <p>I enjoy building end-to-end solutions, from designing scalable backend services and APIs to creating intuitive frontend experiences. I work across the entire software development lifecycle, combining modern frameworks, cloud technologies, and DevOps practices to deliver production-ready applications.</p>
-  </td>
-</tr>
-  </tr>
-</table>
 
 ## 🛠️ Tech Stack
 
